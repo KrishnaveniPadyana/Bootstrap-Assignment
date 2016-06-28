@@ -1,0 +1,39 @@
+.header{
+  background-color:#ccddff;
+}
+.navbar{
+  background-color:#ccddff;
+}
+
+.navbar_default{
+  margin left:30px;
+  margin-right: 30px;
+  background-color:#ccddff;
+}
+
+.navbar-form{
+  margin-top: -60px;
+}
+
+.navbar a:hover{
+ font-size:30px;width: 100%;
+ color:blue ;
+}
+.course{
+  margin-left: 100px;
+  margin-top: 120px;
+}
+
+.Course_details{
+    background-color:lavender;
+}
+.paragraphs{
+  text-align: justify;
+  /*background-color: #ccd9ff;*/
+}
+.copyright{
+  background-color:#ccddff;
+  padding-top: 15px;
+  text-align: center;
+
+}
